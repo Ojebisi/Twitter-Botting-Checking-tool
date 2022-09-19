@@ -1,0 +1,24 @@
+{
+  "name": "RickDick",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "figlet": "^1.5.2",
+    "moment": "^2.29.1",
+    "node-fetch": "^1.7.3",
+    "proxy-agent": "^5.0.0",
+    "puppeteer": "^10.2.0",
+    "puppeteer-page-proxy": "^1.2.8",
+    "puppeteer-proxy": "^2.1.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
